@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a MERN stack developer at Digicrowd Solutions.
+Hi, I’m Uzair Alam (github.com/Armin1723) – Web Developer from India, I am currently working as a MERN stack developer at Digicrowd Solutions.
 
 
 ## 🌐 Socials:
