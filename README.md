@@ -19,7 +19,7 @@ Hi, I’m Uzair Alam (github.com/Armin1723) – Web Developer from India, I am c
 
 ## Now Playing
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312gq4zubsr2pr7mvrw6pralm5le&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312gq4zubsr2pr7mvrw6pralm5le&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312gq4zubsr2pr7mvrw6pralm5le&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
