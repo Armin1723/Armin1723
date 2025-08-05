@@ -17,6 +17,10 @@ Hi, I’m Uzair Alam (github.com/Armin1723) – Web Developer from India, I am c
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Armin1723&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## Now Playing
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312gq4zubsr2pr7mvrw6pralm5le&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312gq4zubsr2pr7mvrw6pralm5le&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
